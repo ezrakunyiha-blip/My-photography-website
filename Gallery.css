@@ -1,0 +1,21 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: aqua;
+    font-size: medium;
+    margin: 10px;
+    background: -o-linear-gradient(
+        rgba (0,0,0,0.5),
+        rgba (0,0,0,0.5),
+    );
+
+}
+li {
+    color:black;
+}
+.container {
+display: flex;
+flex-wrap: wrap;
+gap: 20px;
+
+
+}
