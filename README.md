@@ -8,7 +8,7 @@ It is clean and simple having a simple layout, a galley of images and it is visu
 -Open the project folder: photography-website
 -Open gallery.html
 ## Site map
--gallery.html
+
 -gallery.css
 ## Author
 Ezra kimathi
