@@ -11,6 +11,7 @@ It is clean and simple having a simple layout, a galley of images and it is visu
 -Home page
 -About page
 -Gallery page
+-Contact page
 
 
 
