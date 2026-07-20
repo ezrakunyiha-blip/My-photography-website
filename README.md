@@ -5,6 +5,7 @@ This is a website where i display my skills and talent  of capturing moments thr
 It is clean and simple having a simple layout, a galley of images and it is visually appealing 
 ## Technologies used
 -Html
+-Css
 
 ## Setup instructions
 -Clone my project at my github account;my repositories
