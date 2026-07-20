@@ -9,6 +9,7 @@ It is clean and simple having a simple layout, a galley of images and it is visu
 -Open gallery.html
 ## Site map
 -Home page
+-About page
 
 
 
