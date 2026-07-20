@@ -17,7 +17,7 @@ It is clean and simple having a simple layout, a gallery of images and it is vis
 -Gallery page
 -Contact page
 ## Live demo
-{view website} (https://github.com/ezrakunyiha-blip/My-photography-website)
+{view website} (https://ezrakunyiha-blip.github.io/My-photography-website/)
 
 
 
